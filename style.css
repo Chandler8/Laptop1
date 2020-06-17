@@ -2,6 +2,11 @@
  */
 
  * {
-     background-color: blue;
+     background-color: wheat;
  }
  
+
+ .TextStyle {
+     font-weight: bolder;
+     font-family: fantasy;
+ }
